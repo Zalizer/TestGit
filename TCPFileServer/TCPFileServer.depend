@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1300198834 source:/home/salizer/Desktop/TCPServerClient/TCPFileServer/main.cpp
+	<iostream>
+	"Server.h"
+
+1300203459 source:/home/salizer/Desktop/TCPServerClient/TCPFileServer/Server.cpp
+	"Server.h"
+
+1300195173 /home/salizer/Desktop/TCPServerClient/TCPFileServer/Server.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<arpa/inet.h>
+	<sys/types.h>
+	<netinet/in.h>
+	<sys/socket.h>
+
